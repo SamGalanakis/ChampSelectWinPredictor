@@ -1,6 +1,6 @@
 #extra
 
-./vscode
+.vscode/
 api_key.txt
 
 # Byte-compiled / optimized / DLL files
